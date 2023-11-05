@@ -21,6 +21,18 @@ The console is the first segment of the AirBnB project at Holberton School that 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
+## Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+* How cool it is to request your own API
+* How to modify an HTML element style
+* How to get and update an HTML element content
+* How to modify the DOM
+* How to make a GET request with JQuery Ajax
+* How to make a POST request with JQuery Ajax
+* How to listen/bind to DOM events
+* How to listen/bind to user events
+
 ## Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
@@ -154,10 +166,12 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
-Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
-David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+- Alexa Orrico - [Github](https://github.com/alexaorrico)  
+- Jennifer Huang - [Github](https://github.com/jhuang10123)  
+- Jhoan Zamora - [Github](https://github.com/jzamora5)  
+- David Ovalle - [Github](https://github.com/Nukemenonai)
+- Joel Omewah - [Github](https://github.com/Omewah)
+- Awopeju Kolawole Moses - [Github](https://github.com/Zymoclassic)
 
 Second part of Airbnb: Joann Vuong
 ## License
